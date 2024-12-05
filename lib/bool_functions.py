@@ -1,2 +1,3 @@
 def return_true():
-    return False
+    return True
+print(return_true())
